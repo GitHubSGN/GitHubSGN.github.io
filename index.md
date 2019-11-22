@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <td width="75%">a
+    <td width="75%">
       <h1>Cross Quant SGN</h1>
       <p><b>Ph.D.</b></p>
       <p><b>BIT, CS</b></p>
